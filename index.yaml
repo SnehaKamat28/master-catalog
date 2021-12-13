@@ -22,7 +22,7 @@ tileInfo:
         categories:
           - Learning
     - title: Openlabs Demo
-      id: openlabs_mock
+      id: labs_mock
       description: Easy to use immersive learning platform.
       logo: _images/logo.png
       gitLink: https://github.com/openlabs-explorer/demo
@@ -33,7 +33,7 @@ tileInfo:
           - Learning
           - Databases
     - title: Openlabs Demo Workload Migration Pattern
-      id: openlabs_mock
+      id: devops_mock
       description: Easy to use immersive learning platform.
       logo: _images/logo.png
       gitLink: https://github.com/openlabs-explorer/demo
