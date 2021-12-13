@@ -41,5 +41,6 @@ tileInfo:
       meta:
         type: lite
         categories:
+           - Database
 
           
