@@ -21,3 +21,25 @@ tileInfo:
         type: lite
         categories:
           - Learning
+    - title: Openlabs Demo
+      id: openlabs_mock
+      description: Easy to use immersive learning platform.
+      logo: _images/logo.png
+      gitLink: https://github.com/openlabs-explorer/demo
+      enabled: true
+      meta:
+        type: lite
+        categories:
+          - Learning
+          - Databases
+    - title: Openlabs Demo Workload Migration Pattern
+      id: openlabs_mock
+      description: Easy to use immersive learning platform.
+      logo: _images/logo.png
+      gitLink: https://github.com/openlabs-explorer/demo
+      enabled: true
+      meta:
+        type: lite
+        categories:
+
+          
