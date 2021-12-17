@@ -18,7 +18,7 @@ tileInfo:
       gitLink: https://github.com/openlabs-explorer/demo
       enabled: true
       meta:
-        type: lite
+        type: regular
         categories:
           - Learning
     - title: Openlabs Demo
@@ -39,7 +39,7 @@ tileInfo:
       gitLink: https://github.com/openlabs-explorer/demo
       enabled: true
       meta:
-        type: lite
+        type: premium
         categories:
            - Database
     - title: Openlabs Demo
