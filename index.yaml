@@ -17,6 +17,7 @@ tileInfo:
       logo: _images/logo.png
       gitLink: https://github.com/openlabs-explorer/demo
       enabled: true
+      duration: 2 hr, 10 mins
       meta:
         type: regular
         categories:
@@ -48,6 +49,7 @@ tileInfo:
       logo: _images/logo.png
       gitLink: https://github.com/openlabs-explorer/demo
       enabled: true
+      duration: 1 hr, 20 mins
       meta:
         type: lite
         categories:
